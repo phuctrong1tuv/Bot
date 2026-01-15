@@ -184,7 +184,7 @@ pm2 startup
 
 ## 🆘 Hỗ trợ
 
-- Website: [https://aistv.pages.dev](https://aistv.pages.dev)
+- Website: [Website](https://aistv.pages.dev)
 - Tác giả: Trọng Phúc
 
 ## 📄 License
