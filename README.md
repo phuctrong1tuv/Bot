@@ -22,7 +22,7 @@ Bot Telegram tích hợp ChatGPT API, hỗ trợ chat cá nhân và nhóm với 
 
 ### 1. Clone/Download code
 
-```bash
+
 # Tạo thư mục dự án
 mkdir telegram-chatgpt-bot
 cd telegram-chatgpt-bot
